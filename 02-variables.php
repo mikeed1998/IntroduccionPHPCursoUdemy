@@ -5,7 +5,7 @@ $nombre = "Michael";
 echo $nombre;
 var_dump($nombre);
 
-// define('constante', "Este es el valor de la constante");
+// define("constante", "Este es el valor de la constante");
 // echo constante;
 
 const constante2 = "Hola 2";
